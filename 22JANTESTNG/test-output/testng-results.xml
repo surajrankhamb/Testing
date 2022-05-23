@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[verifyFacebookLoginPageLogo]]>
+    </line>
+    <line>
+      <![CDATA[verifyFacebookLoginForgottenAccountLink]]>
+    </line>
+    <line>
+      <![CDATA[verifyFacebookLoginPageFooterlinkSize]]>
+    </line>
+    <line>
+      <![CDATA[setFacebookLoginPageUserName]]>
+    </line>
+    <line>
+      <![CDATA[setFacebookLoginPagePassword]]>
+    </line>
+    <line>
+      <![CDATA[clickFacebookLoginPagebtn]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-15T22:54:08 IST" name="Default suite" finished-at="2022-05-15T22:54:16 IST" duration-ms="7789">
+    <groups>
+    </groups>
+    <test started-at="2022-05-15T22:54:08 IST" name="Default test" finished-at="2022-05-15T22:54:16 IST" duration-ms="7789">
+      <class name="Pom_factorypractice.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pom_factorypractice.LoginTest@3d680b5a]" started-at="2022-05-15T22:54:08 IST" name="setup" finished-at="2022-05-15T22:54:15 IST" duration-ms="6562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FacebookLoginTest()[pri:0, instance:Pom_factorypractice.LoginTest@3d680b5a]" started-at="2022-05-15T22:54:15 IST" name="FacebookLoginTest" finished-at="2022-05-15T22:54:15 IST" duration-ms="693" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[verifyFacebookLoginPageLogo]]>
+            </line>
+            <line>
+              <![CDATA[verifyFacebookLoginForgottenAccountLink]]>
+            </line>
+            <line>
+              <![CDATA[verifyFacebookLoginPageFooterlinkSize]]>
+            </line>
+            <line>
+              <![CDATA[setFacebookLoginPageUserName]]>
+            </line>
+            <line>
+              <![CDATA[setFacebookLoginPagePassword]]>
+            </line>
+            <line>
+              <![CDATA[clickFacebookLoginPagebtn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FacebookLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pom_factorypractice.LoginTest@3d680b5a]" started-at="2022-05-15T22:54:15 IST" name="tearDown" finished-at="2022-05-15T22:54:16 IST" duration-ms="480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Pom_factorypractice.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
